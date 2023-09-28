@@ -1,1 +1,2 @@
 # FCMSTrans
+FCMSTrans: Many diseases of genetic origin originate from non-synonymous single nucleotide polymorphisms (nsSNPs). These cause changes in the final protein product encoded by a gene. Through large scale sequencing and population studies, there is growing availability of information on which variations are tolerated and which are not. Variant effect predictors use a wide range of information about such variations to predict their effect, often focusing on evolutionary information. Herein, a novel amino acid substitution variant effect predictor is developed.
